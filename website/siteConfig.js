@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Grayson A. Kass', // Title for your website.
     tagline: 'Live. Laugh. Code.',
-    profilePhoto: '.assets/PortfolioProfile.jpg',
+    profilePhoto: 'img/profile.png',
     url: 'https://graysaka.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:

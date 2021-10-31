@@ -67,6 +67,8 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
+        linkedin: 'grayson-kass',
+        twitter: 'graysaka',
         github: 'graysaka',
     },
 

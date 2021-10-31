@@ -5,4 +5,4 @@ title: Recent C++ Sample
  
 Here is a screenshot of a C++ Sample Project. The purpose was to implement overloading as a member and non-member of a class as well as incorporating a template class.
 
-(tech-portfolio/docs/assets/PortfolioProfile.jpg)
+[](./assets/TechPortfolioSS1.PNG)

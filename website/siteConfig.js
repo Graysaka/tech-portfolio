@@ -43,12 +43,12 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#2C312E',
-        secondaryColor: '#72C3E7',
+        primaryColor: '#87ceeb',
+        
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Grayson Kass`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
